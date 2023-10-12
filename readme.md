@@ -37,7 +37,7 @@ garantire che i codici sconto siano applicabili solo in determinate condizioni.
 
 ### Scenario
 
-Nel terzo test, esamineremo come il candidato progettarebbe un sistema di indicizzazione e ricerca di documenti
+Nel terzo test, esamineremo come il candidato progetterebbe un sistema di indicizzazione e ricerca di documenti
 aziendali su un'infrastruttura cloud. L'obiettivo è creare un sistema altamente scalabile, adattabile a picchi di
 utilizzo stagionali e in grado di gestire documenti di diversi formati.
 
